@@ -7,7 +7,7 @@ The last, the diets we offer retrieval by Spoonacular API.
 
 #### Live Link of the Project
 
-[https://bmitracker.netlify.app/](https://bmitracker.netlify.app/ "https://bmitracker.netlify.app/")
+https://learnyourbmi.vercel.app/
 
 ### Technologies & Tools
 
@@ -46,5 +46,5 @@ Clone down this repository. You will need node and npm installed globally on you
 **To Visit App:**
 localhost:3000/
 
-
+### ***This project is built by the Error by Night team. All rights reserved.***
 
